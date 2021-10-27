@@ -4,7 +4,7 @@
 
 **2. Dado el fichero anterior, incluye un formulario con dos inputs tipo texto, un tipo selector, un textarea y un botón submit. Cada input deberá tener un label asociado. Queremos hacer dos versiones, una que el textarea no se muestre y no se vea el espacio ocupado y otra en la que no se muestre y sí se respete el espacio ocupado.**
 
-**3. Añade un conjunto de párrafos con la clase "lista" y, usando la propiedad display, visualiza los párrafos como si fuera una lista.
+**3. Añade un conjunto de párrafos con la clase "lista" y, usando la propiedad display, visualiza los párrafos como si fuera una lista.**
 
 **4. En el fichero span-display.html aparecen tres textos dentro de una etiqueta span. Modifica la propiedad display como se indica en el comentario del código y explica porqué se está produciendo ese efecto.**
 
